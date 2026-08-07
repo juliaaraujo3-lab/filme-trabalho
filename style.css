@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Roboto, sans-serif;
+}
+
+body {
+    background-color: rgb(141, 205, 226);
+}
+ 
+img{
+    width: 300px;
+ }
+
+ h1, h2, h3 {
+    color: crimson;
+ }
+
+ h1 {
+    text-align: center;
+ }
+
+ p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-left: 20px;
+    margin-right: auto;
+    max-width: 400px;
+    border-radius: 12px;
+    
+ }
